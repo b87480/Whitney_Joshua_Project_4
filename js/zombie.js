@@ -1,7 +1,7 @@
 /*
  		Joshua Whitney  
  		VFW 1305 
-		Assignement 3
+		Assignement 4
  */
 
 window.addEventListener("DOMContentLoaded", function(){
